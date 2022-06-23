@@ -2,3 +2,4 @@
 
 
 # serverin hazirlanma konstruksiyasi
+# salam S307
